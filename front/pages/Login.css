@@ -1,0 +1,18 @@
+.login{
+  padding: 100px;
+  margin-left: 400px;
+  margin-top: 150px;
+}
+
+button{
+    width:480px;
+    height:450px
+}
+
+
+@media screen and (max-width:768px) {
+  .login{
+    margin-top: 150px;
+    margin-left:40px;
+  }
+}

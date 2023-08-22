@@ -1,0 +1,27 @@
+.col{
+    display: grid;
+    grid-template-columns: repeat(6, 200px);
+    gap:60px;
+    width:100px
+}
+
+.row{
+    width: 100px;
+}
+
+img img{
+    background-position: center;
+}
+
+
+@media only screen and (max-width:768px){
+
+    .col{
+        display: grid;
+        grid-template-columns: repeat(3, 200px);
+        gap:60px;
+        width:100px
+    }
+}
+
+

@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+nav{
+    background-color: black;
+    padding: 20px;
+    color:#fff;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+   
+}
+
+nav h1{
+   color:#fff;
+   text-decoration: none;
+   margin:8px;
+  text-decoration: none;
+
+}
+
+nav link{
+    text-decoration: none;
+}
+
+h1{
+    text-decoration: none;
+}
+
+
+nav Link {
+    text-decoration: none;
+}
+
+link{
+    text-decoration: none;
+}
